@@ -124,7 +124,7 @@ function Home({ page, setPage, onChallengeClick }) {
           <p></p>
         </div>
         <div className="card">
-          <h3>Ilyias</h3>
+          <h3>Iliyas</h3>
           <p></p>
         </div>
       </div>
@@ -161,7 +161,7 @@ function TeamMembers() {
           <p></p>
         </div>
         <div className="card">
-          <h3>Ilyias</h3>
+          <h3>Iliyas</h3>
           <p></p>
         </div>
       </div>
